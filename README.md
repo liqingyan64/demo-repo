@@ -1,7 +1,7 @@
-# DEMO
+# 学习使用git连接github
 
-somethings!!!!!
+Youtube看得迷迷糊糊的，还得借助Chatgpt
 
-## subheadder
+## 继续加油吧
 
-coutinue!
+加油！
